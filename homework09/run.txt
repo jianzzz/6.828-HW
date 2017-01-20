@@ -1,0 +1,2 @@
+$ gcc -g -O2 -pthread barrier.c
+$ ./a.out 2
